@@ -1,0 +1,4 @@
+name: DiscoStripAddress
+version: ${project.version}
+main: org.zerobzerot.discostripaddress.DiscoStripAddress
+description: Plugin for removing IP addresses from disconnect messages.
